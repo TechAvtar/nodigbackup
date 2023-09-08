@@ -1,0 +1,32 @@
+.inside-HomePageFaq{
+    display: flex;
+
+padding: 80px;
+flex-direction: column;
+align-items: center;
+gap: 40px;
+/* background-image: url('/public/home-features-bg.jpg'); */
+background: url('/public/faqs@3x.png');
+/* background-image: linear-gradient(red, yellow); */
+background-size: cover;
+background-repeat: no-repeat;
+background-position: 50% 50%;
+/* background: rgba(0, 0, 0, 0.2) */
+}
+.head-HomePageFaq{
+    color:  #000B16;
+
+/* H2 */
+font-family: Maven Pro;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 54px */
+
+}
+.group-parent1{
+    border-radius: 20px;
+background: #F5F6F6;
+padding: 32px;
+
+}

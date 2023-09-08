@@ -1,0 +1,58 @@
+.SearchPageListing-up-right-ratings{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    margin-top: -10.5rem;
+    margin-left: -5rem;
+}
+.SearchPageListing-up-right-ratings-p1{
+    color: var(--Deep-Blue-C, #000B16);
+
+/* Body Large Consumer */
+font-family: Catamaran;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.SearchPageListing-up-right-stars svg{
+    margin-top: 1rem;
+}
+.SearchPageListing-up-right-reviews p{
+    color: var(--NoDig-Dark-Blue, #011E34);
+
+/* Body Text Consumer */
+font-family: Catamaran;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+margin-top: -0.2rem;
+
+}
+.head-comp-name-CompanyPageRight{
+    color: var(--NoDig-Dark-Blue, #011E34);
+
+/* H1 Consumer */
+font-family: Nunito;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: -5.5rem;
+margin-top: 1rem;
+}
+.top-CompanyPageRight{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+   gap: 18rem;
+   background: #FFFFFF;
+}
+.inside-CompanyPageRight{
+    padding-bottom: 5rem;
+}

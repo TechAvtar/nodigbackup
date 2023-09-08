@@ -1,0 +1,47 @@
+.head-CompanyPageInfo{
+    color: var(--Mid-Green, #48B1A3);
+
+/* H2 Consumer */
+font-family: Nunito;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+.head-CoveredAreas-CompanyPageInfo{
+    color: #517FCC;
+
+/* H3 Consumer */
+font-family: Nunito;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+}
+.content-CoveredAreas-CompanyPageInfo{
+    color: var(--NoDig-Dark-Blue, #011E34);
+
+/* Body Text Consumer */
+font-family: Catamaran;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+margin-top: -0.5rem;
+}
+.inside-CompanyPageInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    /* width: 100%; */
+    padding: 1rem;
+    background: #FFFFFF;
+    width: 800px;
+    margin-top: 0.5rem;
+}
+.CoveredAreas-CompanyPageInfo{
+    margin-top: -1rem;
+}

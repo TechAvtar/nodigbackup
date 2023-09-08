@@ -1,0 +1,247 @@
+.registration-form {
+    /* position: absolute;
+    top: 5750px; */
+    left: 0;
+    width: 100%;
+    flex-direction: column;
+    padding: 80px;
+    box-sizing: border-box;
+    background-image: url(/public/registration-form@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    overflow: hidden;
+    padding-right: 5rem;
+  }
+  .become-nodig-verified {
+    position: relative;
+   
+    display: inline-block;
+    width: 374px;
+    color: var(--White, #FFF);
+text-align: center;
+
+/* H2 */
+font-family: Maven Pro;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 54px */
+  }
+  .group-parent {
+    flex-direction: row;
+    text-align: left;
+    /* font-size: var(--body-text-size);
+    font-family: var(--body-large); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    
+  }
+
+  .group-container {
+    position: relative;
+    width: 757.24px;
+    height: 403.64px;
+  }
+  .group-child {
+    position: absolute;
+    top: 54.64px;
+    left: 55.06px;
+    width: 372px;
+    height: 349px;
+  }
+  .lorem-ipsum-dolor-sit-amet-co-wrapper {
+    position: absolute;
+    top: 66.98px;
+    left: 329.24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .lorem-ipsum-dolor {
+    position: relative;
+    line-height: 120%;
+    display: inline-block;
+    width: 428px;
+    color: var(--White, #FFF);
+
+/* Body Text */
+font-family: Didact Gothic;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 20.4px */
+  }
+  .down-arrow-grey2 {
+    position: absolute;
+    top: 241px;
+    left: 266.25px;
+    width: 77px;
+    height: 73px;
+  }
+  .verified-badge4 {
+    width: 324px;
+height: 333px;
+flex-shrink: 0;
+
+position: absolute;
+    /* top: 241px;
+    left: 5px;
+     */
+
+  }
+  .new-2-icon{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    
+  }
+  .frame-group {
+    border-radius: 20px;
+background: #1D8ECE;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    padding: 28px 80px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 40px;
+  }
+  .component-2-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
+  }
+  .component-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 4px;
+  }
+  .live-chat-tracking {
+    position: relative;
+    line-height: 120%;
+    color: var(--White, #FFF);
+
+/* Body Text */
+font-family: Didact Gothic;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 20.4px */
+  }
+  .input-field-base-rectangle1 {
+    position: relative;
+    
+    width: 400px;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+background: var(--Off-White-C, #FDFDFD);
+    font-size: 1.2rem;
+    padding-left: 0.5rem;
+  }
+  .input-field-base-rectangle4 {
+    align-self: stretch;
+    position: relative;
+    border-radius: 10px;
+    background: var(--Off-White-C, #FDFDFD);
+    height: 40px;
+    outline: none;
+    border: none;
+    font-size: 1.2rem;
+    padding-left: 0.5rem;
+    width: 400px;
+  }
+  .input-field-base-rectangle6 {
+    /* position: relative; */
+    border-radius: 20px;
+    background: var(--Off-White-C, #FDFDFD);
+    width: 30px;
+    height: 29px;
+    outline: none;
+    border: none;
+
+  }
+  .text18 {
+    line-height: 120%;
+    display: inline-block;
+    width: 327px;
+    position: relative;
+    flex-shrink: 0;
+    color: var(--White, #FFF);
+
+/* Body Text */
+font-family: Didact Gothic;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 20.4px */
+  }
+  .tile-icons9 {
+    width: 28px;
+    height: 28px;
+    overflow: hidden;
+    position: relative;
+  }
+  .buttons5 {
+    position: relative;
+    width: 194px;
+    height: 51px;
+    text-align: center;
+    font-size: var(--button-text-size);
+    font-family: var(--button-text);
+  }
+  .button-base2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 5px;
+background: #51BF5F;
+    cursor: pointer;
+    margin-top: -0.5rem;
+  }
+  .text8 {
+    position: absolute;
+    top: calc(50% - 10.5px);
+    left: calc(50% - 68px);
+    line-height: 120%;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    width: 135px;
+    height: 20px;
+    text-decoration: none;
+  }
+  .component-13 {
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+  }

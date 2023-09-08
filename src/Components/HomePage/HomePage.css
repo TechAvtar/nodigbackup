@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Catamaran&family=Dancing+Script:wght@400;500&family=Dongle:wght@300&family=Island+Moments&family=Kanit:wght@600&family=Kdam+Thmor+Pro&family=Lobster&family=Maven+Pro&family=Merriweather:wght@300&family=Mochiy+Pop+P+One&family=Mukta:wght@200&family=Neonderthaw&family=Overlock:ital@1&family=Poppins:wght@200&family=Sedgwick+Ave&family=Source+Code+Pro:ital@1&family=Ubuntu:ital,wght@1,300&display=swap');
+.main-HomeHeader{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+.home-navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.home-logo{
+    width: 220px;
+height: 81px;
+display: flex;
+flex-direction: column;
+}
+.home-logo img{
+    width: 100%;
+    object-fit: cover;
+}
+.each-nav-opt{
+    width: 421px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 16px;
+align-items: flex-start;
+gap: 12px;
+}
+.each-nav-opt p{
+    color: #001E34;
+text-align: center;
+
+/* Body Large */
+font-family: Didact Gothic;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 38.4px */
+}
+.homeheader-btns{
+    display: flex;
+    width: 432px;
+height: 83px;
+padding: 16px;
+align-items: flex-start;
+gap: 12px;
+
+}
+.homeHeader-signUp,.homeHeader-login{
+    width: 194px;
+height: 51px;
+border-radius: 5px;
+}
+.homeHeader-signUp{
+    background: #27ADE2;
+}
+.homeHeader-login{
+    border: 1px solid black;
+}
+.homeHeader-signUp p{
+    color: #FFF;
+text-align: center;
+
+/* Button Text */
+font-family: Maven Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 19.2px */
+text-transform: uppercase;
+}
+.homeHeader-login p{
+    color: #001E34;
+text-align: center;
+
+/* Button Text */
+font-family: Maven Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 19.2px */
+text-transform: uppercase;
+}
+.background-homeHero{
+    height: 917px;
+    width: 100%;
+    background-image: url('/public/bg-hero.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}

@@ -1,0 +1,107 @@
+.inside-CompanyPageLeft{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profile-pic-CompanyPageLeft{
+    width: 263px;
+height: 263px;
+border-radius: 50%;
+border: 5px solid #F5F5F5;
+padding: 1.2rem;
+margin-top: -10rem;
+background: #FFFFFF;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.img-profPic-CompanyPageLeft{
+    width: 100%;
+    height: 100%;
+    margin-left: 0.5rem;
+}
+.read-reviews-btn-CompanyPageLeft{
+    width: 194px;
+height: 51px;
+border-radius: 5px;
+background: #48B1A3;
+color: #FFF;
+text-align: center;
+margin-top: 2rem;
+
+/* Button Text */
+font-family: Maven Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 19.2px */
+text-transform: uppercase;
+}
+.call-sideInfo p{
+    color: var(--NoDig-Dark-Blue, #011E34);
+
+/* Body Text Consumer */
+font-family: Catamaran;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+
+}
+.call-sideInfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    /* margin-top: -1rem; */
+}
+
+.all-info-CompanyPageLeft{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    width: 194px;
+}
+.map-CompanyPageLeft{
+    width: 270px;
+height: 170px;
+}
+.map-CompanyPageLeft img{
+    width: 100%;
+    height: 100%;
+}
+.certificates-CompanyPageLeft{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 1rem;
+}
+.head-certificates-CompanyPageLeft{
+    color: #517FCC;
+
+/* H3 Consumer */
+font-family: Nunito;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+}
+.content-certificates-CompanyPageLeft{
+    color: var(--NoDig-Dark-Blue, #011E34);
+    margin-top: -1rem;
+/* Body Text Consumer */
+font-family: Catamaran;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+width: 240px;
+}

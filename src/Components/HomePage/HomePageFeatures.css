@@ -1,0 +1,68 @@
+.inside-HomePageFeatures{
+    
+    background-image: url('/public/benefits@3x.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    display: flex;
+    flex-direction: column;
+padding: 80px;
+justify-content: center;
+align-items: center;
+gap: 40px;
+margin-top: -1rem;
+}
+.all-HomePage-Features{
+    display: flex;
+    flex-direction: column;
+    padding: 80px;
+justify-content: center;
+align-items: center;
+/* gap: 40px; */
+margin-top: -5rem;
+}
+.HomePage-Features-p1{
+    color: var(--White, #FFF);
+
+/* H2 */
+font-family: Maven Pro;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%;
+}
+.each-HomePage-Features{
+    display: flex;
+align-items: center;
+gap: 8px;
+margin-top: -0.2rem;
+}
+.each-HomePage-Features p{
+    color: var(--White, #FFF);
+
+/* H3 */
+font-family: Maven Pro;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: 120%; /* 36px */
+}
+.each-HomePage-Features-btn{
+    width: 194px;
+height: 51px;
+border-radius: 5px;
+background: #51BF5F;
+margin-top: 5rem;
+}
+.each-HomePage-Features-btn p{
+    color: var(--White, #FFF);
+    text-align: center;
+    
+    /* Button Text */
+    font-family: Maven Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%; /* 19.2px */
+    text-transform: uppercase;
+}

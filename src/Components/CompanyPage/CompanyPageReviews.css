@@ -1,0 +1,75 @@
+.head-CompanyPageReviews{
+    color: var(--Mid-Green, #48B1A3);
+
+/* H2 Consumer */
+font-family: Nunito;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+margin-top: 0rem;
+}
+.content-eachReview-CompanyPageReviews{
+    color: var(--NoDig-Dark-Blue, #011E34);
+
+/* Body Text Consumer */
+font-family: Catamaran;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+margin-top: -0.3rem;
+}
+.eachReview-CompanyPageReviews{
+    margin-top: 0rem;
+}
+.ratings-eachReview-CompanyPageReviews{
+    color: var(--Deep-Blue-C, #000B16);
+
+/* Body Text Consumer */
+font-family: Catamaran;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+}
+.userName-eachReview-CompanyPageReviews{
+    color: var(--Dark-Purple, #517FCC);
+
+/* Body Text Consumer */
+font-family: Catamaran;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+}
+.eachReview-CompanyPageReviews-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.userName-eachReview-CompanyPageReviews{
+    color: var(--Dark-Purple, #517FCC);
+
+/* Body Text Consumer */
+font-family: Catamaran;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+margin-left: 3rem;
+}
+.inside-CompanyPageReviews{
+    margin-top: 0.5rem;
+    display: flex;
+width: 800px;
+padding: 1rem;
+background: #FFF;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 8px;
+}

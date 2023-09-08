@@ -1,0 +1,53 @@
+.CompanyPageOpt-down{
+    /* background: #ffffff; */
+    margin-top: 0.3rem;
+    
+}
+.CompanyPageOpt-down-each-opt svg{
+    width: 30px;
+height: 30px;
+}
+.CompanyPageOpt-down-each-opt{
+    /* display: flex; */
+    width: 225px;
+    height: 100px;
+    padding-top: 32px;
+border: 1px solid #E3E1DD;
+background: var(--White, #FFF);
+text-align: center;
+/* flex-direction: column; */
+/* justify-content: center;
+align-items: center;
+gap: 8px;
+flex-shrink: 0; */
+}
+.CompanyPageOpt-down-each-opt p{
+    color: #48B1A3;
+    margin-top: 0.5rem;
+
+/* H4 Consumer */
+font-family: Nunito;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+/* text-align: center; */
+}
+.CompanyPageOpt-down-all-opt{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 830px;
+    gap: 2px;
+}
+.header-appointmentModal{
+    display: flex;
+width: 700px;
+height: 50px;
+padding: 9px 16px 9px 652px;
+justify-content: flex-end;
+align-items: center;
+background: #F5F5F5;
+}

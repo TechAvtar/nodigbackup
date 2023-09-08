@@ -1,0 +1,55 @@
+.inside-CompanyPageFooter{
+    /* background: #000; */
+    background-image: url(/public/search-footer@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 556px;
+    align-items: center;
+    
+}
+.each-row-CompanyPageFooter{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10px;
+    margin-top: -1rem;
+    margin-left: -1rem;
+}
+.cont-each-row-CompanyPageFooter{
+    color: white;
+
+/* Body Text */
+font-family: Didact Gothic;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.each-col-CompanyPageFooter-head{
+    color: #FFF;
+
+/* Body Large */
+font-family: Didact Gothic;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.each-col-CompanyPageFooter{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    
+}
+.logo-footer{
+    width: 296px;
+height: 109px;
+display: flex;
+margin-top: 3rem;
+}

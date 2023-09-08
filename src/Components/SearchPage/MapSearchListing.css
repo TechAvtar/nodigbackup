@@ -1,0 +1,12 @@
+.search-image-6-icon {
+    /* position: absolute;
+    top: 755px;
+    left: 65px; */
+    width: 349px;
+    
+    height: fit-content;
+    object-fit: cover;
+  }
+  .main-MapSearchListing{
+    margin-top: 1.2rem;
+  }

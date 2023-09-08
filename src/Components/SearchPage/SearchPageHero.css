@@ -1,0 +1,57 @@
+.main-SearchPageHero{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inside-SearchPageHero{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 347px;
+    background-image: url(/public/search-hero@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.search-search-bar {
+    /* top: 673px; */
+  /* left: 424px; */
+   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+   width: 752px;
+   color: #455e6c;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   
+   position: absolute;
+   height: 65px;
+ }
+ .SearchPageHero-p1{
+    width: 752px;
+    color: var(--NoDig-Dark-Blue, #011E34);
+ text-align: left;
+/* H1 Consumer */
+font-family: Nunito;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+ }
+.SearchPageHero-p2{
+    color: var(--NoDig-Dark-Blue, #011E34);
+
+    /* H2 Consumer */
+    font-family: Nunito;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: -4rem;
+}

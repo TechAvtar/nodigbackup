@@ -1,0 +1,139 @@
+.inside-HomePageMembersSay{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.head-HomePageMembersSay{
+    color: #001E34;
+
+/* H2 */
+font-family: Maven Pro;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 54px */
+/* text-align: center; */
+}
+.all-HomePageMembersSay{
+    display: flex;
+align-items: center;
+gap: 40px;
+    flex-direction: row;
+
+}
+.frame-parent4 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    overflow: hidden;
+    flex-direction: column;
+    padding: 32px;
+    gap: 8px;
+  }
+  .tile-icons-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+  }
+  .frame-child2 {
+    position: relative;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    width: 57px;
+    height: 57px;
+    object-fit: cover;
+  }
+  .john-smiths-parent,.tile-icons15 {
+    position: relative;
+    width: 178px;
+    height: 86px;
+  }
+  .john-smiths {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 120%;
+    display: inline-block;
+    color: #001E34;
+
+/* Body Large */
+font-family: Didact Gothic;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 38.4px */
+  }
+  .managing-director-abc-container {
+    position: absolute;
+    top: 40px;
+    left: 5px;
+    font-size: var(--body-text-size);
+    line-height: 120%;
+    display: inline-block;
+    width: 173px;
+    height: 46px;
+  }
+  .join-forces-with-nodigcom {
+    margin: 0;
+    color: #001E34;
+
+/* Body Text */
+font-family: Didact Gothic;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 20.4px */
+    /* margin-top: 2rem; */
+  }
+  .abc-company {
+    margin: 0;
+   
+    color: #001E34;
+
+/* Body Text */
+font-family: Didact Gothic;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 20.4px */
+  }
+  .tile-icons-parent11 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+  }
+  .tile-icons15 {
+    position: relative;
+    width: 178px;
+    height: 86px;
+  }
+  .tile-icons15 {
+    width: 38px;
+    height: 38px;
+  }
+  .im-very-satisfied {
+    position: relative;
+    /* font-size: var(--body-text-size); */
+    line-height: 120%;
+    display: inline-block;
+    width: 353px;
+    height: 50px;
+    flex-shrink: 0;
+    color: #001E34;
+
+/* Body Text */
+font-family: Didact Gothic;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 20.4px */
+  }

@@ -1,0 +1,105 @@
+.main-HomePageHowItWorks{
+    padding-bottom: 5rem;
+}
+.all-HomePageHowItWorks{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 80px;
+    padding: 80px 0px;
+    justify-content: center;
+    align-items: center;
+
+}
+.inside-HomePageHowItWorks{
+    width: 80%;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 80px;
+    /* padding-left: 5rem; */
+    margin-left: 10rem;
+    border-radius: 20px;
+    padding-bottom: 3rem;
+background: #F5F6F6;
+box-shadow: 8px 8px 16px 0px rgba(0, 0, 0, 0.20);
+margin-top: -12rem; 
+
+}
+.each-HomePageHowItWorks-text{
+    color: #2E3438;
+text-align: center;
+
+/* H2 */
+font-family: Maven Pro;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 54px */
+
+}
+.each-HomePageHowItWorks{
+    display: flex;
+width: 312px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 8px;
+}
+.each-HomePageHowItWorks-img-div{
+    width: 128px;
+height: 128px;
+border-radius: 128px;
+border: 5px solid #FFF;
+}
+.each-HomePageHowItWorks-img-div img{
+    width: 100%;
+    height: 100%;
+}
+.each-HomePageHowItWorks-p1{
+    color: #2E77BB;
+text-align: center;
+
+/* H3 */
+font-family: Maven Pro;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: 120%; /* 36px */
+margin-top: -0.5rem;
+
+}
+.each-HomePageHowItWorks-p2{
+    color:  #000B16;
+text-align: center;
+
+/* Body Text */
+font-family: Didact Gothic;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 20.4px */
+margin-top: -1.7rem;
+}
+.HowItWorks-btn{
+    width: 194px;
+height: 51px;
+border-radius: 5px;
+background: #27ADE2;
+margin-top: -8rem;
+}
+.HowItWorks-btn p{
+    color: #FFF;
+text-align: center;
+
+/* Button Text */
+font-family: Maven Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 19.2px */
+text-transform: uppercase;
+}

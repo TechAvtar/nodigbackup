@@ -1,0 +1,101 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Catamaran&family=Dancing+Script:wght@400;500&family=Dongle:wght@300&family=Island+Moments&family=Kanit:wght@600&family=Kdam+Thmor+Pro&family=Lobster&family=Maven+Pro&family=Merriweather:wght@300&family=Mochiy+Pop+P+One&family=Mukta:wght@200&family=Neonderthaw&family=Overlock:ital@1&family=Poppins:wght@200&family=Sedgwick+Ave&family=Source+Code+Pro:ital@1&family=Ubuntu:ital,wght@1,300&display=swap');
+.main-AboutHeader{
+    padding: 28px 80px;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid var(--White, #FFF);
+background: var(--Sky-Blue, #9DBBF9);
+height: 50px;
+
+    
+}
+.About-navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: -2rem;
+    margin-left: -2rem;
+}
+.home-logo{
+    width: 220px;
+height: 81px;
+display: flex;
+flex-direction: column;
+}
+.home-logo img{
+    width: 100%;
+    object-fit: cover;
+}
+.each-nav-opt-About{
+    width: 380px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 16px;
+align-items: flex-start;
+gap: 12px;
+}
+.each-nav-opt-About p{
+    color: var(--White, #FFF);
+text-align: center;
+font-family: Nunito;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+cursor: pointer;
+}
+.Aboutheader-btns{
+    display: flex;
+    width: 432px;
+height: 83px;
+padding: 16px;
+align-items: flex-start;
+gap: 2px;
+
+
+}
+.AboutHeader-signUp,.AboutHeader-login{
+    width: 194px;
+height: 51px;
+border-radius: 5px;
+margin-top: 0.8rem;
+margin-left: 2rem;
+padding: 7px 3px 8px 4px;
+}
+.AboutHeader-signUp{
+    background: #48B1A3;
+    height: 53px;
+    padding: 7px 3px 8px 4px;
+    cursor: pointer;
+}
+.AboutHeader-login{
+    border: 1px solid #FFFFFF;
+}
+.AboutHeader-signUp p{
+    color: #FFF;
+text-align: center;
+/* Button Consumer */
+font-family: Catamaran;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: 20px; /* 111.111% */
+text-transform: uppercase;
+}
+.AboutHeader-login p{
+    color: var(--White, #FFF);
+text-align: center;
+
+/* Button Consumer */
+font-family: Catamaran;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: 20px; /* 111.111% */
+text-transform: uppercase;
+}

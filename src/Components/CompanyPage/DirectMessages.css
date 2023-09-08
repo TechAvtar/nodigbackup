@@ -1,0 +1,67 @@
+.main-DirMessModal{
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 2rem;
+}
+.inside-DirMessModal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 760px;
+    
+box-shadow: 4px 16px 24px 0px rgba(0, 0, 0, 0.20), -4px -8px 24px 0px rgba(0, 0, 0, 0.20);
+}
+.top-DirMessModal{
+    display: flex;
+    width: 7.8rem;
+height: 35px;
+padding: 9px 16px 9px 652px;
+justify-content: flex-end;
+align-items: center;
+background: #F5F5F5;
+}
+.bottom-DirMessModal{
+    background: #ffffff;
+    width: 100%;
+    padding-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.head2-AppointmentModal{
+    color: #011E34;
+font-family: Nunito;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+text-align: left;
+margin-left: 1rem;
+margin-top: -1rem;
+margin-bottom: 2rem;
+}
+    .submitBtn-DirectMessagesModal{
+        width: 350px;
+    height: 51px;
+    border-radius: 5px;
+    background: #48B1A3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+    /* margin-left: 32rem; */
+    }
+
+.submitBtn-DirectMessagesModal p{
+    color: #FFF;
+text-align: center;
+font-family: Maven Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 19.2px */
+text-transform: uppercase;
+}

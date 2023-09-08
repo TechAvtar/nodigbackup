@@ -1,0 +1,62 @@
+[
+    
+    {
+    "name": "Basic",
+    "description": [
+        "Full use of NoDig verified badge",
+        "Dedicated Contractor support"
+        
+    ],
+    "color":"#ffffff",
+    "textColor":"#000"
+},
+{
+    "name": "Bronze",
+    "description": [
+        "Full use of NoDig verified badge",
+        "Dedicated Contractor support",
+        "Live Chat Tracking",
+        "Contact Form Tracking",
+        "Call Tracking",
+        "Auto Estimates"
+    ],
+    "color":"#15456BE5",
+    "textColor":"#FFFFFF"
+    
+},
+{
+    "name": "Silver",
+    "description": [
+        "Full use of NoDig verified badge",
+        "Dedicated Contractor support",
+        "Live Chat Tracking",
+        "Contact Form Tracking",
+        "Call Tracking",
+        "Auto Estimates",
+        "Auto Bookings",
+        "Google Review Software"
+    ],
+    "color":"#1D8ECEE5",
+    "textColor":"#FFFFFF"
+    
+}
+,
+{
+    "name": "Gold",
+    "description": [
+        "Full use of NoDig verified badge",
+        "Dedicated Contractor support",
+        "Live Chat Tracking",
+        "Contact Form Tracking",
+        "Call Tracking",
+        "Auto Estimates",
+        "Auto Bookings",
+        "Google Review Software",
+        "Social Media Software"
+    ],
+    "color":"#6CC4EEE5",
+    "textColor":"#FFFFFF"
+    
+}
+
+]

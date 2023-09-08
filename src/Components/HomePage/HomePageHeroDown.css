@@ -1,0 +1,48 @@
+.main-HomePageHeroDown{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background: #A2C8D3;
+    padding-top: 5rem;
+    padding-bottom: 15rem;
+}
+.inside-HomePageHeroDown{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.left-HomePageHeroDown{
+    width: 370px;
+height: 403px;
+}
+.left-HomePageHeroDown img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.right-HomePageHeroDown{
+    display: flex;
+    flex-direction: column;
+    width: 841px;
+}
+.right-HomePageHeroDown-p1{
+    color: #001E34;
+
+/* H2 */
+font-family: Maven Pro;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 54px */
+}
+.right-HomePageHeroDown-p2{
+    color: #001E34;
+
+/* Body Large */
+font-family: Didact Gothic;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 38.4px */
+}

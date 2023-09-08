@@ -1,0 +1,99 @@
+.main-HomePageHeroUp{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    /* width: 100%; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    
+}
+.inside-main-HomePageHeroUp{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+}
+.HomePageHeroUp-left{
+    width: 472px;
+    height: 181px;
+flex-shrink: 0;
+margin-top: -12rem;
+display: flex;
+flex-direction: column;
+}
+.HomePageHeroUp-left p{
+    color: #001E34;
+
+/* H1 */
+font-family: Maven Pro;
+font-size: 75px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 90px */
+text-transform: uppercase;
+}
+.HomePageHeroUp-left-btn{
+    width: 194px;
+height: 51px;
+border-radius: 5px;
+background: #51BF5E;
+}
+.HomePageHeroUp-left-btn p{
+    color: #FFF;
+text-align: center;
+
+/* Button Text */
+font-family: Maven Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 19.2px */
+text-transform: uppercase;
+
+}
+.img-HomePageHeroUp-mid{
+    width: 333px;
+height: 348px;
+}
+.img-HomePageHeroUp-mid img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.HomePageHeroUp-mid{
+    padding-left: 1rem;
+}
+.HomePageHeroUp-right{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-left: 3rem;
+}
+.HomePageHeroUp-right-p1{
+    color: #001E34;
+
+    /* H3 */
+    font-family: Maven Pro;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%; /* 36px */
+}
+.HomePageHeroUp-right-p2{
+    color: #001E34;
+
+/* Body Large */
+font-family: Didact Gothic;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 38.4px */
+}

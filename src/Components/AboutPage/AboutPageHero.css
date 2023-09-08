@@ -1,0 +1,198 @@
+.main-AboutPageHero{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1100px;
+    background-image: url(/public/about-hero@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: 20px;
+}
+.logo-AboutPageHero{
+    width: 182px;
+height: 191px;
+}
+.logo-AboutPageHero img{
+    width: 100%;
+    height: 100%;
+    margin-top: 5rem;
+}
+.inside-AboutPageHero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.head-AboutPageHero-p1{
+    color: var(--NoDig-Dark-Blue, #011E34);
+text-align: center;
+
+/* H1 Consumer */
+font-family: Nunito;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.head-AboutPageHero{
+    margin-top: 4rem;
+}
+.head-AboutPageHero-p2{
+    color: var(--NoDig-Dark-Blue, #011E34);
+/* Body Large Consumer */
+font-family: Catamaran;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: -3.5rem;
+width: 841px;
+text-align: center;
+margin-left: 12rem;
+
+}
+.about-search-bar {
+     top: 673px;
+   /* left: 424px; */
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 752px;
+    color: #455e6c;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+    position: absolute;
+    height: 65px;
+  }
+  .about-magnifying-glass-glass-search-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    width: 279px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    
+  }
+  .about-magnifying-glass-glass-search-icon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .about-how-can-we {
+    position: relative;
+  }
+  .about-input-zip-code{
+    outline: none;
+    border: none;
+    font-size: 1.2rem;
+  }
+  .about-location-compass-1-arrow-comp-parent {
+    top: 0;
+    left: 279px;
+    background-color: #fff;
+    border-left: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 279px;
+    flex-direction: row;
+    padding: 20px;
+    justify-content: flex-start;
+    gap: 10px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+  }
+  .about-location-compass-1-arrow-comp-icon {
+    position: relative;
+    width: 15.86px;
+    height: 16.85px;
+  }
+  .about-buttons {
+    top: 0;
+    left: 558px;
+    width: 194px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: #fff;
+    font-family: Catamaran;
+    position: absolute;
+    height: 65px;
+  }
+  .about-buttons1 {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    background-color: #fb7869;
+    cursor: pointer;
+    height: 65px;
+  }
+  .about-text {
+    top: calc(50% - 18.5px);
+    left: calc(50% - 93px);
+    line-height: 20px;
+    text-transform: uppercase;
+    font-weight: 800;
+    justify-content: center;
+    width: 187px;
+    height: 36px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+  }
+  .about-service-icons {
+    position: absolute;
+    top: 813px;
+    left: calc(50% - 256px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    color: #fff;
+  }
+  .about-tile-icons-parent {
+    width: 163px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+  }
+  .about-tile-icons {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .about-title {
+    position: relative;
+    text-transform: uppercase;
+  }
+  .about-trenchless {
+    margin: 0;
+    color: var(--no-dig-dark-blue, #011E34);
+text-align: center;
+
+/* Body Large Consumer */
+font-family: Catamaran;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
